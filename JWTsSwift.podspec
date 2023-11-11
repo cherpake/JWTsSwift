@@ -29,6 +29,7 @@ JWS and JWT Swift Library. Supported only secp256k1(ES256K)
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
+  s.macos.deployment_target = '14.0'
 
   s.source_files = 'JWTsSwift/Classes/**/*'
   
